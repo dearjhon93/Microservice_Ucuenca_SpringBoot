@@ -6,7 +6,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/dearjhon93/Microservicio_SpringBoot_SpringCloud.git
+          #https://github.com/dearjhon93/Microservicio_SpringBoot_SpringCloud.git
+          uri: https://github.com/dearjhon93/Microservice_Ucuenca_SpringBoot.git
           search-paths: data-config
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
