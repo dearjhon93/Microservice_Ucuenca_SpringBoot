@@ -1,0 +1,2 @@
+ucuenca/ejemplo/store/config/ServiceConfigApplication.java
+ ucuenca.ejemplo.store.config.ServiceConfigApplication
