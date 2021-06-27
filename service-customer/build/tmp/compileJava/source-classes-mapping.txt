@@ -1,0 +1,17 @@
+ucuenca/ejemplo/store/customer/service/CustomerServiceImpl.java
+ ucuenca.ejemplo.store.customer.service.CustomerServiceImpl
+ucuenca/ejemplo/store/customer/ServiceCustomerApplication.java
+ ucuenca.ejemplo.store.customer.ServiceCustomerApplication
+ucuenca/ejemplo/store/customer/repository/CustomerRepository.java
+ ucuenca.ejemplo.store.customer.repository.CustomerRepository
+ucuenca/ejemplo/store/customer/controller/ErrorMessage.java
+ ucuenca.ejemplo.store.customer.controller.ErrorMessage
+ ucuenca.ejemplo.store.customer.controller.ErrorMessage$ErrorMessageBuilder
+ucuenca/ejemplo/store/customer/service/CustomerService.java
+ ucuenca.ejemplo.store.customer.service.CustomerService
+ucuenca/ejemplo/store/customer/entity/Region.java
+ ucuenca.ejemplo.store.customer.entity.Region
+ucuenca/ejemplo/store/customer/controller/CustomerRest.java
+ ucuenca.ejemplo.store.customer.controller.CustomerRest
+ucuenca/ejemplo/store/customer/entity/Customer.java
+ ucuenca.ejemplo.store.customer.entity.Customer
