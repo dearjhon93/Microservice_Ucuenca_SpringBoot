@@ -2,6 +2,8 @@ package ucuenca.ejemplo.store.shopping.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
+import ucuenca.ejemplo.store.shopping.model.Customer;
+import ucuenca.ejemplo.store.shopping.model.Product;
 
 import javax.persistence.*;
 import javax.validation.Valid;
@@ -42,8 +44,8 @@ public class Invoice {
     private String state;
 
     //Use after create the microservice ===============
-    //@Transient
-    //private Customer customer;
+    @Transient
+    private Customer customer;
     //Use after create the microservice ===============
 
     public Invoice(){

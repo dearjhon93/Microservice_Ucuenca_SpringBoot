@@ -1,6 +1,7 @@
 package ucuenca.ejemplo.store.shopping.entity;
 
 import lombok.Data;
+import ucuenca.ejemplo.store.shopping.model.Product;
 
 import javax.persistence.*;
 import javax.validation.constraints.Positive;
@@ -25,8 +26,8 @@ public class InvoiceItem {
     private Double subTotal;
 
     //Use after create the microservice ===============
-    //@Transient
-    //private Product product;
+    @Transient
+    private Product product;
     //Use after create the microservice ===============
 
     public Double getSubTotal(){
