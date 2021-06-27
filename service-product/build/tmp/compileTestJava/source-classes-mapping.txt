@@ -1,0 +1,6 @@
+ucuenca/ejemplo/store/product/ServiceProductApplicationTests.java
+ ucuenca.ejemplo.store.product.ServiceProductApplicationTests
+ucuenca/ejemplo/store/product/ProductServiceMockTest.java
+ ucuenca.ejemplo.store.product.ProductServiceMockTest
+ucuenca/ejemplo/store/product/ProductRepositoryMockTest.java
+ ucuenca.ejemplo.store.product.ProductRepositoryMockTest
