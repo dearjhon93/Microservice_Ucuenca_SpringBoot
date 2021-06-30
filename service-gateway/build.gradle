@@ -26,7 +26,7 @@ dependencies {
 	}
 
 	//Solution: No spring.config.import property has been defined
-	//implementation 'org.springframework.cloud:spring-cloud-starter-bootstrap'
+	implementation 'org.springframework.cloud:spring-cloud-starter-bootstrap'
 }
 
 dependencyManagement {
