@@ -36,6 +36,9 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
 	implementation 'org.springframework.cloud:spring-cloud-starter-bootstrap'
+
+	//Use service-admin =============================
+	compile group: 'de.codecentric', name: 'spring-boot-admin-starter-client', version: '2.2.1'
 }
 
 dependencyManagement {
